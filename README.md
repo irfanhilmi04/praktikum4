@@ -62,3 +62,6 @@ print("| {no:2d} | {nama:12s} | {nim:9s} | {tugas:5d} | {uts:5d} | {uas:5d} | {a
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 
 print("==================================================================")
+
+## Flowchart 
+![PicsArt_11-24-04 31 18](https://user-images.githubusercontent.com/56240221/69492809-c55b2b80-0ed9-11ea-95c3-5f0576a0f9a2.jpg)
